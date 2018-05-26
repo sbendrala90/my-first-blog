@@ -4,7 +4,7 @@
 
 [TOC]
 
-##My First Web Application using Python Django Framework
+## My First Web Application using Python Django Framework
 
 - This is my First Application in Python Django using Amazon Cloud 9 IDE 
 - [Reference](https://tutorial.djangogirls.org/en/ )
